@@ -1,0 +1,13 @@
+def pediche():
+  print("dame dos numeros")
+  exponente = input()
+  base = input()
+  base=int(base)
+  exponente=int(exponente)
+  raiz_cubica = base**(1/exponente)
+  print("¿cual es el primero?", exponente)
+  print("¿cual es el segundo?", base)
+  print("el resultado es", raiz_cubica)
+
+
+pediche()
