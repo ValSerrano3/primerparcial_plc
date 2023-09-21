@@ -1,0 +1,8 @@
+def descuento():
+  print("dame un descuento")
+  exponente = input()
+  descuento = input()
+  descuento=int (descuento)
+  descuento=int (original)
+  print("¿cual es el precio original?")
+  print("¿cual es el descuento")
